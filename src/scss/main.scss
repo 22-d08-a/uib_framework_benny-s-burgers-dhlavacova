@@ -7,8 +7,11 @@
 
   &:hover{
     border:1px solid $purple;
-    olor: $purple;
+    color: $purple;
   }
 }
 
+.hintergrund-purple{
+  background-color: $purple;
+}
 // This is where you can import other stylesheets or write your scss code
