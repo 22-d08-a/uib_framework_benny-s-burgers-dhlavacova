@@ -1,6 +1,6 @@
 # Benny's burger
+[![Status overview badge](../../blob/badges/.github/badges/bootstrap-scss/badge.svg)](#-results)
 
-[![Status overview badge](../../blob/badges/.github/badges/main/badge.svg)](#-results)
 
 Let's use Bootstrap to create a restaurant page!
 
@@ -65,49 +65,49 @@ Note: have a look into the `node_modules/scss/bootstrap/_variables.scss` file to
 
 |                 Status                  | Check                                                                                    |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status0.svg) | `nav` element exists and has at least three items |
-| ![Status](../../blob/badges/.github/badges/main/status1.svg) | the navigation bar has a logo image |
-| ![Status](../../blob/badges/.github/badges/main/status2.svg) | Navbar is always at the top of the page when scrolling down |
+| ![Status](../../blob/badges/.github/badges/bootstrap-scss/status0.svg) | `nav` element exists and has at least three items |
+| ![Status](../../blob/badges/.github/badges/bootstrap-scss/status1.svg) | the navigation bar has a logo image |
+| ![Status](../../blob/badges/.github/badges/bootstrap-scss/status2.svg) | Navbar is always at the top of the page when scrolling down |
 
 ### Banner
 
 |                 Status                  | Check                                                                                    |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status3.svg) | section has image background |
-| ![Status](../../blob/badges/.github/badges/main/status4.svg) | section has a title `h1` with font family `Love Ya Like A Sister` |
+| ![Status](../../blob/badges/.github/badges/bootstrap-scss/status3.svg) | section has image background |
+| ![Status](../../blob/badges/.github/badges/bootstrap-scss/status4.svg) | section has a title `h1` with font family `Love Ya Like A Sister` |
 
 ### The idea section
 
 |                 Status                  | Check                                                                                    |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status5.svg) | the section has a title `h2` with font family `Love Ya Like A Sister` |
-| ![Status](../../blob/badges/.github/badges/main/status6.svg) | the section has three columns |
+| ![Status](../../blob/badges/.github/badges/bootstrap-scss/status5.svg) | the section has a title `h2` with font family `Love Ya Like A Sister` |
+| ![Status](../../blob/badges/.github/badges/bootstrap-scss/status6.svg) | the section has three columns |
 
 ### What's new section
 
 |                 Status                  | Check                                                                                    |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status7.svg) | the section has a title `h2` with font family `Love Ya Like A Sister` |
-| ![Status](../../blob/badges/.github/badges/main/status8.svg) | the section has six columns that are centered |
+| ![Status](../../blob/badges/.github/badges/bootstrap-scss/status7.svg) | the section has a title `h2` with font family `Love Ya Like A Sister` |
+| ![Status](../../blob/badges/.github/badges/bootstrap-scss/status8.svg) | the section has six columns that are centered |
 
 ### Book a table section
 
 |                 Status                  | Check                                                                                    |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status9.svg) | the section has a title `h2` with font family `Love Ya Like A Sister` |
-| ![Status](../../blob/badges/.github/badges/main/status10.svg) | the section has a form with two input fields |
+| ![Status](../../blob/badges/.github/badges/bootstrap-scss/status9.svg) | the section has a title `h2` with font family `Love Ya Like A Sister` |
+| ![Status](../../blob/badges/.github/badges/bootstrap-scss/status10.svg) | the section has a form with two input fields |
 
 ### Navigation interaction
 
 |                 Status                  | Check                                                                                    |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status11.svg) | the page scrolls to the appropriate section when nav item is clicked |
+| ![Status](../../blob/badges/.github/badges/bootstrap-scss/status11.svg) | the page scrolls to the appropriate section when nav item is clicked |
 
 ### Responsivity
 
 |                 Status                  | Check                                                                                    |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status12.svg) | the page is responsive on tablet |
+| ![Status](../../blob/badges/.github/badges/bootstrap-scss/status12.svg) | the page is responsive on tablet |
 
 
 
